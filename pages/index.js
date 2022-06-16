@@ -5,9 +5,9 @@ export default function Home() {
   return (
     <div className="section">
       <h1>
-        <Wave text="Under construction" effect="jump" effectChange={0.1} />
+        <Wave text="Under Construction" effect="jump" effectChange={0.1} />
       </h1>
-      <ThreeDots color="#FCE6E9" height={80} width={80} />
+      <ThreeDots color="#fff" height={100} width={100} />
     </div>
   );
 }

@@ -16,6 +16,12 @@ a {
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: genral;
+  src: url('../public/assets/fonts/GeneralSans-Medium.ttf');
+  font-weight: 500;
+}
+
 .section{
   display: flex;
   justify-content: center;
@@ -30,7 +36,8 @@ a {
 
 
 h1{
-  font-size: 50px;
-  color: #FCE6E9;;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 70px;
+  color: #fff;;
+  font-family:genral;
+  font-weight: 500;
 }
