@@ -1,5 +1,4 @@
 import { ThreeDots } from "react-loader-spinner";
-import { Random } from "react-animated-text";
 import { Wave } from "react-animated-text";
 export default function Home() {
   return (
